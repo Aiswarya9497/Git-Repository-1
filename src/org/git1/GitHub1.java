@@ -5,5 +5,7 @@ public class GitHub1 {
 	String name="Aaradhya";
 	System.out.println(name);
 	System.out.println("A updating");
+	int a = 100;
+	System.out.println(a);
 }
 }
